@@ -8,7 +8,7 @@ on:
 
 jobs:
 
-# Build job. Builds app for Android with Buildozer
+# Build job. Builds app for Android with Buildozer.
 
 build-android:
 
